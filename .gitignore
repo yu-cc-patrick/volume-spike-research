@@ -1,0 +1,5 @@
+# 首次 checkpoint 生成
+.DS_Store
+__pycache__/
+*.log
+
